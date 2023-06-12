@@ -20,6 +20,7 @@ export default function Home() {
           <div className='home__filter-container'>
             <CustomFilter />
             <CustomFilter />
+            <CustomFilter />
           </div>
         </div>
       </div>
